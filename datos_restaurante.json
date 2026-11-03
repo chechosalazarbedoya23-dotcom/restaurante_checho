@@ -1,0 +1,67 @@
+{
+  "clientes": [
+    {
+      "identificacion": "1054862113",
+      "nombre": "Sergio Alejandro",
+      "apellido": "Salazar Bedoya",
+      "telefono": "326213475",
+      "otro_telefono": "",
+      "correo": "",
+      "fecha_registro": "02/11/2026 21:03"
+    },
+    {
+      "identificacion": "75097361",
+      "nombre": "Jose Uriel",
+      "apellido": "Salazar Acosta",
+      "telefono": "3212939461",
+      "otro_telefono": "",
+      "correo": "",
+      "fecha_registro": "02/11/2026 21:16"
+    }
+  ],
+  "reservas": [
+    {
+      "codigo": "R001",
+      "identificacion": "1054862113",
+      "a_nombre_de": "Sergio Alejandro Salazar Bedoya",
+      "mesa": 7,
+      "personas": 5,
+      "fecha": "23/11/2026",
+      "hora": "18:00",
+      "valor": 55000,
+      "observaciones": "cumpleaños",
+      "estado": "Cancelada",
+      "fecha_creacion": "02/11/2026 21:06",
+      "fecha_cancelacion": "02/11/2026 21:07"
+    },
+    {
+      "codigo": "R002",
+      "identificacion": "75097361",
+      "a_nombre_de": "Jose Uriel Salazar Acosta",
+      "mesa": 7,
+      "personas": 5,
+      "fecha": "23/11/2026",
+      "hora": "18:00",
+      "valor": 55000,
+      "observaciones": "cumpleaños",
+      "estado": "Activa",
+      "fecha_creacion": "02/11/2026 21:18",
+      "fecha_cancelacion": ""
+    },
+    {
+      "codigo": "R003",
+      "identificacion": "1054862113",
+      "a_nombre_de": "Sergio Alejandro Salazar Bedoya",
+      "mesa": 9,
+      "personas": 5,
+      "fecha": "23/11/2026",
+      "hora": "18:00",
+      "valor": 120000,
+      "observaciones": "matrimonio",
+      "estado": "Activa",
+      "fecha_creacion": "02/11/2026 21:19",
+      "fecha_cancelacion": ""
+    }
+  ],
+  "contador_reservas": 3
+}
